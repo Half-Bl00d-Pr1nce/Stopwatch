@@ -17,15 +17,15 @@ This is a desktop stopwatch application built with Python and PyQt5. It features
 
 ## Installation
 
-1. Clone the repository
-2. Install dependencies
+1. Clone the repository: git clone https://github.com/Half-Bl00d-Pr1nce/Stopwatch.git
+2. Install dependencies: pip install PyQt5
 
 
 ---
 
 ## Usage
 
-1. Run the application:
+1. Run the application: python main.py
 2. Use the Start, Stop, and Reset buttons to control the stopwatch.
 
 ---
