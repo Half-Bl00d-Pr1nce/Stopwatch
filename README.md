@@ -1,4 +1,4 @@
-# Python PyQt5 Stopwatch
+# Stopwatch
 
 ## Overview
 This is a desktop stopwatch application built with Python and PyQt5. It features a responsive GUI with millisecond precision timing and intuitive controls for start, stop, and reset.
